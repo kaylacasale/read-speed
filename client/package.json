@@ -17,6 +17,10 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "^4.0.2"
   },
+  "engines": {
+    "node": "18.x",
+    "npm": "8.x"
+  },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
